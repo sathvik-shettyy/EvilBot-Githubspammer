@@ -1,7 +1,7 @@
 # EvilBot - GitHub Spam Attack
 
 ## Description
-EvilBot is a devious project designed to launch a GitHub spam attack. When executed, EvilBot repeatedly opens a browser window to a specified URL, flooding the target website with requests. This project aims to cause chaos and disruption in the digital realm.
+EvilBot is a 'Hahah hui hui HEHHEE" Evil Laugh project designed to launch a GitHub spam attack. When executed, EvilBot repeatedly opens a browser window to a specified URL, flooding the target website with requests. This project aims to cause chaos and disruption in the digital realm.
 
 ## Disclaimer
 Please note that using EvilBot for malicious purposes is highly unethical and likely illegal. The creator of this project takes no responsibility for any consequences that may arise from its use. This project is intended for educational purposes only, to raise awareness about the potential dangers of spam attacks.
